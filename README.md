@@ -1,16 +1,15 @@
-## Hi there 👋
+# RedzepTech
 
-<!--
-**redzeptech/redzeptech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Dijital güvenlik, adli bilişim ve bilişim hukuku kesişiminde çalışıyorum.  
+Teknik analiz, dijital delil perspektifi ve toplumsal dijital riskler üzerine projeler geliştiriyorum.
 
-Here are some ideas to get you started:
+## Uzmanlık Alanları
+- Adli Bilişim
+- Dijital Delil Analizi
+- Siber Güvenlik Farkındalığı
+- Bilişim Hukuku
+- Sosyal Mühendislik Analizi
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Öne Çıkan Proje
+### PhishLens TR
+Şüpheli mesaj metinlerinde sosyal mühendislik işaretleri ve bağlantı izlerine göre kural tabanlı risk analizi yapan eğitim amaçlı araç.
