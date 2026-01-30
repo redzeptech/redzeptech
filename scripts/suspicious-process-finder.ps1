@@ -33,3 +33,6 @@ $report | Format-Table -AutoSize
 $report | Export-Csv suspicious_processes.csv -NoTypeInformation
 
 Write-Host "Report saved to suspicious_processes.csv"
+
+Write-Host "Report saved to suspicious_processes.csv"
+
