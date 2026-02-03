@@ -1,3 +1,10 @@
+![Linux](https://img.shields.io/badge/Linux-CLI--First-informational?style=flat&logo=linux)
+![Windows](https://img.shields.io/badge/Windows-Environment-blue?style=flat&logo=windows)
+![Log Analysis](https://img.shields.io/badge/Log-Analysis-orange)
+![Digital Forensics Mindset](https://img.shields.io/badge/Evidence-Oriented-success)
+![Process Security](https://img.shields.io/badge/Process-Driven%20Security-critical)
+![KVKK / GDPR Awareness](https://img.shields.io/badge/Data%20Protection-KVKK%20%2F%20GDPR-lightgrey)
+
 > "Digital events are rarely random. They are outcomes of systems, processes, and human decisions interacting over time."
 
 # 👋 Hello, I'm Recep Şenel (RedzepTech)
