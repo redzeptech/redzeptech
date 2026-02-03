@@ -1,9 +1,16 @@
 ![Digital Incident Analysis](https://img.shields.io/badge/Digital-Incident%20Analysis-blue)
-![Evidence-Oriented Thinking](https://img.shields.io/badge/Evidence-Oriented%20Thinking-success)
+![Log Correlation](https://img.shields.io/badge/Log-Correlation-blue)
+
 ![Process-Driven Security](https://img.shields.io/badge/Process-Driven%20Security-critical)
-![Behavior & Risk Patterns](https://img.shields.io/badge/Behavior-Risk%20Patterns-orange)
-![Log Correlation](https://img.shields.io/badge/Log-Correlation-informational)
+![Risk Pattern Analysis](https://img.shields.io/badge/Risk-Pattern%20Analysis-critical)
+
+![Evidence-Oriented Thinking](https://img.shields.io/badge/Evidence-Oriented%20Thinking-success)
+
+![Behavioral Indicators](https://img.shields.io/badge/Behavioral-Indicators-orange)
+
 ![Data Protection Awareness](https://img.shields.io/badge/Data%20Protection-Awareness-lightgrey)
+![KVKK / GDPR Context](https://img.shields.io/badge/KVKK%20%2F%20GDPR-Context-lightgrey)
+
 
 
 > "Digital events are rarely random. They are outcomes of systems, processes, and human decisions interacting over time."
