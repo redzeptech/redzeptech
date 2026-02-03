@@ -98,14 +98,4 @@ It does not constitute legal representation or formal expert witness services.
 🌐 recepsenel.com
 🔗 linkedin.com/in/0xrs-sec
 
-## 📊 GitHub Activity
-
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=redzeptech&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=redzeptech&layout=compact)
-
-
-![GitHub Streak](https://streak-stats.demolab.com?user=redzeptech&theme=default)
-
-
 ![Profile Views](https://komarev.com/ghpvc/?username=redzeptech&color=blue)
