@@ -3,14 +3,32 @@
 
 > "Digital events are rarely random..."
 
-[![Digital Incident Analysis](https://img.shields.io/badge/Digital-Incident%20Analysis-blue "Methodical analysis of digital events and traces")](https://github.com/redzeptech) 
-[![Log Correlation](https://img.shields.io/badge/Log-Correlation-blue "Cross-system log pattern analysis and timeline reconstruction")](https://github.com/redzeptech) 
-[![Process-Driven Security](https://img.shields.io/badge/Process-Driven%20Security-critical "Security gaps emerging from workflow and process design")](https://github.com/redzeptech) 
-[![Risk Pattern Analysis](https://img.shields.io/badge/Risk-Pattern%20Analysis-critical "Identifying behavior-driven digital risk indicators")](https://github.com/redzeptech) 
-[![Evidence-Oriented Thinking](https://img.shields.io/badge/Evidence-Oriented%20Thinking-success "Analysis approach based on traceable digital evidence")](https://github.com/redzeptech) 
-[![Behavioral Indicators](https://img.shields.io/badge/Behavioral-Indicators-orange "Human-factor influence in digital incidents")](https://github.com/redzeptech) 
-[![Data Protection Awareness](https://img.shields.io/badge/Data%20Protection-Awareness-lightgrey "Awareness of personal data handling and protection principles")](https://recepsenel.com) 
-[![KVKK / GDPR Context](https://img.shields.io/badge/KVKK%20%2F%20GDPR-Context-lightgrey "Data protection context under KVKK and GDPR frameworks")](https://recepsenel.com)
+<p align="center">
+  <a href="https://github.com/redzeptech" title="Methodical analysis of digital events and traces">
+    <img src="https://img.shields.io/badge/Digital-Incident%20Analysis-blue?style=flat-square"/>
+  </a>
+  <a href="https://github.com/redzeptech" title="Cross-system log pattern analysis and timeline reconstruction">
+    <img src="https://img.shields.io/badge/Log-Correlation-blue?style=flat-square"/>
+  </a>
+  <a href="https://github.com/redzeptech" title="Security gaps emerging from workflow and process design">
+    <img src="https://img.shields.io/badge/Process-Driven%20Security-critical?style=flat-square"/>
+  </a>
+  <a href="https://github.com/redzeptech" title="Identifying behavior-driven digital risk indicators">
+    <img src="https://img.shields.io/badge/Risk-Pattern%20Analysis-critical?style=flat-square"/>
+  </a>
+  <a href="https://github.com/redzeptech" title="Analysis approach based on traceable digital evidence">
+    <img src="https://img.shields.io/badge/Evidence-Oriented%20Thinking-success?style=flat-square"/>
+  </a>
+  <a href="https://github.com/redzeptech" title="Human-factor influence in digital incidents">
+    <img src="https://img.shields.io/badge/Behavioral-Indicators-orange?style=flat-square"/>
+  </a>
+  <a href="https://recepsenel.com" title="Awareness of personal data handling and protection principles">
+    <img src="https://img.shields.io/badge/Data%20Protection-Awareness-lightgrey?style=flat-square"/>
+  </a>
+  <a href="https://recepsenel.com" title="Data protection context under KVKK and GDPR frameworks">
+    <img src="https://img.shields.io/badge/KVKK%20%2F%20GDPR-Context-lightgrey?style=flat-square"/>
+  </a>
+</p>
 
 
 
