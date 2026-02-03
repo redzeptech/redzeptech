@@ -66,6 +66,7 @@ The content here reflects a consultative analytical stance.
 This is not formal legal advice or expert witness service.
 
 📫 Contact
-
+📧 redzeptech@recepsenel.com
 🌐 recepsenel.com
-🔗 linkedin.com/in/0xrs-sec/
+🔗 linkedin.com/in/0xrs-sec
+
