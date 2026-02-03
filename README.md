@@ -1,9 +1,10 @@
-![Linux](https://img.shields.io/badge/Linux-CLI--First-informational?style=flat&logo=linux)
-![Windows](https://img.shields.io/badge/Windows-Environment-blue?style=flat&logo=windows)
-![Log Analysis](https://img.shields.io/badge/Log-Analysis-orange)
-![Digital Forensics Mindset](https://img.shields.io/badge/Evidence-Oriented-success)
-![Process Security](https://img.shields.io/badge/Process-Driven%20Security-critical)
-![KVKK / GDPR Awareness](https://img.shields.io/badge/Data%20Protection-KVKK%20%2F%20GDPR-lightgrey)
+![Digital Incident Analysis](https://img.shields.io/badge/Digital-Incident%20Analysis-blue)
+![Evidence-Oriented Thinking](https://img.shields.io/badge/Evidence-Oriented%20Thinking-success)
+![Process-Driven Security](https://img.shields.io/badge/Process-Driven%20Security-critical)
+![Behavior & Risk Patterns](https://img.shields.io/badge/Behavior-Risk%20Patterns-orange)
+![Log Correlation](https://img.shields.io/badge/Log-Correlation-informational)
+![Data Protection Awareness](https://img.shields.io/badge/Data%20Protection-Awareness-lightgrey)
+
 
 > "Digital events are rarely random. They are outcomes of systems, processes, and human decisions interacting over time."
 
