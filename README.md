@@ -30,6 +30,12 @@
   </a>
 </p>
 
+<p align="center">
+  <strong>Digital Incident Analyst</strong> • 
+  Evidence-Oriented Thinking • 
+  Process & Behavior-Driven Security • 
+  Data Protection Awareness
+</p>
 
 
 
