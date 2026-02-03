@@ -100,11 +100,9 @@ It does not constitute legal representation or formal expert witness services.
 
 ## 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=redzeptech&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=redzeptech&show_icons=true&theme=default&cache_seconds=86400)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=redzeptech&layout=compact)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=redzeptech&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=redzeptech&layout=compact&cache_seconds=86400)
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=redzeptech&color=blue)
