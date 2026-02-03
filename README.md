@@ -1,15 +1,19 @@
-![Digital Incident Analysis](https://img.shields.io/badge/Digital-Incident%20Analysis-blue)
-![Log Correlation](https://img.shields.io/badge/Log-Correlation-blue)
+[![Digital Incident Analysis](https://img.shields.io/badge/Digital-Incident%20Analysis-blue "Methodical analysis of digital events and traces")](https://github.com/redzeptech)
 
-![Process-Driven Security](https://img.shields.io/badge/Process-Driven%20Security-critical)
-![Risk Pattern Analysis](https://img.shields.io/badge/Risk-Pattern%20Analysis-critical)
+[![Log Correlation](https://img.shields.io/badge/Log-Correlation-blue "Cross-system log pattern analysis and timeline reconstruction")](https://github.com/redzeptech)
 
-![Evidence-Oriented Thinking](https://img.shields.io/badge/Evidence-Oriented%20Thinking-success)
+[![Process-Driven Security](https://img.shields.io/badge/Process-Driven%20Security-critical "Security gaps emerging from workflow and process design")](https://github.com/redzeptech)
 
-![Behavioral Indicators](https://img.shields.io/badge/Behavioral-Indicators-orange)
+[![Risk Pattern Analysis](https://img.shields.io/badge/Risk-Pattern%20Analysis-critical "Identifying behavior-driven digital risk indicators")](https://github.com/redzeptech)
 
-![Data Protection Awareness](https://img.shields.io/badge/Data%20Protection-Awareness-lightgrey)
-![KVKK / GDPR Context](https://img.shields.io/badge/KVKK%20%2F%20GDPR-Context-lightgrey)
+[![Evidence-Oriented Thinking](https://img.shields.io/badge/Evidence-Oriented%20Thinking-success "Analysis approach based on traceable digital evidence")](https://github.com/redzeptech)
+
+[![Behavioral Indicators](https://img.shields.io/badge/Behavioral-Indicators-orange "Human-factor influence in digital incidents")](https://github.com/redzeptech)
+
+[![Data Protection Awareness](https://img.shields.io/badge/Data%20Protection-Awareness-lightgrey "Awareness of personal data handling and protection principles")](https://recepsenel.com)
+
+[![KVKK / GDPR Context](https://img.shields.io/badge/KVKK%20%2F%20GDPR-Context-lightgrey "Data protection context under KVKK and GDPR frameworks")](https://recepsenel.com)
+
 
 
 
