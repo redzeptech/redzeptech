@@ -1,69 +1,82 @@
-👋 Hello, I’m Recep Şenel (RedzepTech)
+> "Digital events are rarely random. They are outcomes of systems, processes, and human decisions interacting over time."
 
-Digital Incident Analysis & Evidence-Oriented Security Engineer
+# 👋 Hello, I'm Recep Şenel (RedzepTech)
 
-I work at the intersection of:
+**Digital Incident Analysis | Evidence-Oriented Security | Process & Behavior Driven Thinking**
 
-Digital incident analysis
+30+ years in public-sector IT environments.  
+I analyze digital events not as isolated technical issues, but as **intersections of systems, processes, human behavior, and data traces**.
 
-Evidence integrity thinking
+---
 
-Information security awareness
+## 🧠 Analytical Approach
 
-Digital risk & human behavior patterns
+I focus on understanding:
 
-Over 30+ years of experience in public-sector IT environments.
-I focus on extracting meaningful insights from complexity.
+- **How an event emerged**
+- **How it evolved across systems**
+- **Which traces it left behind**
+- **Why it happened**
+- **How it can be prevented**
 
-🧠 Analytical Philosophy
+I work with evidence-oriented reasoning rather than assumptions.
 
-Digital phenomena are rarely random — they are outcomes of:
+---
 
-System interactions
+## 🔍 Core Technical Focus
 
-Process flaws
+- Digital incident analysis methodologies  
+- Log correlation & event timeline reconstruction  
+- Digital evidence integrity principles  
+- System & process failure analysis  
+- Behavior-driven risk patterns  
+- Data flow traceability  
+- Pre-incident risk indicators  
 
-Behavioral triggers
+---
 
-Data traces & signals
+## 🛠 Technical Toolkit
 
-I approach each incident with an evidence-first mindset rather than assumptions.
+**Systems**  
+Linux • Windows • Networked infrastructures  
 
-🔍 Core Expertise
+**Analysis**  
+Log analysis • Event correlation • Timeline reconstruction  
+Root cause analysis • System behavior interpretation  
 
-Digital incident & forensic-aware analysis
+**Security Context**  
+Process-driven security gaps  
+Data protection awareness (KVKK / GDPR perspective)  
+Evidence preservation discipline  
 
-Log correlation & event timeline building
+---
 
-Behavior-driven risk pattern identification
-
-Process security & root cause reasoning
-
-Data protection (KVKK / GDPR context)
-
-Visibility of evidence and traceable data flows
-
-🛠 Technical Eyes on
-
-I think in terms of:
+## ⚙️ Working Philosophy
 
 Observe → Correlate → Interpret → Validate → Document
 
 
-This is how I safely dissect technical reality.
+---
 
-🧩 Featured Project
-PhishLens TR
+## 🚀 Featured Projects
 
-A rule-based educational tool that analyzes suspicious message content
-for social engineering signals and link-related risk patterns.
+- **PhishLens TR** — Social engineering pattern analyzer  
+- **Incident Log Parser** — Structured log review toolkit  
+- **Evidence Trace Toolkit** — Event trace comparison utilities  
 
-(You can update this section with project URLs and screenshots.)
+---
 
-⚠️ Professional Scope
+## 🧩 What Differentiates My Work
 
-The content here reflects a consultative analytical stance.
-This is not formal legal advice or expert witness service.
+I do not stop at surface symptoms.  
+Unresolved issues remain under analysis until the root cause is understood.
+
+---
+
+## ⚠️ Professional Scope
+
+This profile reflects a **consultative analytical perspective**.  
+It does not constitute legal representation or formal expert witness services.
 
 📫 Contact
 📧 redzeptech@recepsenel.com
