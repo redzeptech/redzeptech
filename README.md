@@ -85,6 +85,14 @@ Unresolved issues remain under analysis until the root cause is understood.
 This profile reflects a **consultative analytical perspective**.  
 It does not constitute legal representation or formal expert witness services.
 
+## 🚧 Currently Exploring
+
+- Behavior-driven risk indicators in digital environments  
+- Log correlation patterns for incident reconstruction  
+- Process-originated security weaknesses  
+- Evidence integrity awareness in system operations  
+- Human factor influence in digital incident timelines
+
 📫 Contact
 📧 redzeptech@recepsenel.com
 🌐 recepsenel.com
