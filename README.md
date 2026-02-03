@@ -1,3 +1,9 @@
+[badge'ler]
+
+---
+
+> "Digital events are rarely random..."
+
 [![Digital Incident Analysis](https://img.shields.io/badge/Digital-Incident%20Analysis-blue "Methodical analysis of digital events and traces")](https://github.com/redzeptech)
 
 [![Log Correlation](https://img.shields.io/badge/Log-Correlation-blue "Cross-system log pattern analysis and timeline reconstruction")](https://github.com/redzeptech)
