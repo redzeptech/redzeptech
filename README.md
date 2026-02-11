@@ -1,6 +1,39 @@
 <p align="center">
   <img src="Adsız.png" />
 </p>
+<h1 align="center">Recep Şenel</h1>
+<h3 align="center">Digital Incident & Evidence Analyst</h3>
+
+<p align="center">
+I investigate what really happened inside a system.
+</p>
+
+---
+
+### About me
+
+I analyze systems after incidents occur.
+
+Not only malware…  
+Not only alerts…
+
+I analyze traces, behaviors and decisions left behind digital events.
+
+Because most cyber incidents are not only technical problems.  
+They are evidence problems.
+
+---
+
+## 🔎 Featured Project — LogWatch-TR
+
+Windows Event Log (EVTX) triage and investigation tool.
+
+Designed for:
+- Incident responders
+- Digital forensic analysts
+- Blue team operations
+
+➡️ https://github.com/redzeptech/logwatch-tr
 
 ---
 
