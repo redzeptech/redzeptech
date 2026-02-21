@@ -2,6 +2,10 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=3500&pause=1200&color=2FE6FFFB&background=071A2C&center=true&vCenter=true&multiline=true&width=850&height=200&lines=Digital+Forensics+Analyst;DFIR+%26+Incident+Response+Researcher;Linux+%7C+Memory+Forensics;Open-Source+Investigator;Independent+researcher+focusing+on+digital+evidence+;Memory+forensics+and+incident+response)](https://git.io/typing-svg)
 
+### Digital Forensics • Incident Response • Memory Forensics  
+I analyze digital evidence, patterns, and intent — turning artifacts into actionable findings.  
+📌 Start here: **LogWatch-TR** | **DFIR case notes** | **Linux learning path**
+
 <br>
 
 <p align="center">
