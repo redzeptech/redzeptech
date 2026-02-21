@@ -11,7 +11,9 @@
   <img src="https://streak-stats.demolab.com?user=redzeptech&theme=github-dark&hide_border=true" />
 </p>
 ---
-
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=redzeptech&theme=onedark&no-frame=true&row=1&column=6" />
+</p>
 ## 🔎 Start Here
 
 I investigate real incidents and reconstruct what actually happened inside systems using logs and digital traces.
