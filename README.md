@@ -11,7 +11,6 @@
   <img src="https://streak-stats.demolab.com?user=redzeptech&theme=github-dark&hide_border=true" />
 </p>
 ---
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=redzeptech&layout=compact&theme=github_dark&hide_border=true)
 
 ## 🔎 Start Here
 
