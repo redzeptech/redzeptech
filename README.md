@@ -8,6 +8,10 @@
   <img src="./assets/metrics.svg" alt="GitHub Metrics"/>
 </p>
 
+<p align="center">
+  <img src="./assets/metrics.svg" />
+</p>
+
 
 
 <p align="center">
