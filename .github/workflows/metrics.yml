@@ -17,7 +17,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: redzeptech
           template: terminal
-          base: header, activity, community, repositories, metadata
+          base: repositories
           config_timezone: Europe/Istanbul
 
           plugin_languages: yes
