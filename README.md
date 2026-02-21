@@ -11,7 +11,7 @@
   <img src="https://streak-stats.demolab.com?user=redzeptech&theme=github-dark&hide_border=true" />
 </p>
 ---
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=3500&pause=1200&color=2FE6FF&background=071A2C&center=true&vCenter=true&multiline=true&width=850&height=200&lines=Digital+Forensics+Analyst;DFIR+%26+Incident+Response+Researcher;Linux+%7C+Memory+Forensics;Open-Source+Investigator;Independent+researcher+focusing+on+digital+evidence;Memory+forensics+and+incident+response)](https://git.io/typing-svg)
 ## 🔎 Start Here
 
 I investigate real incidents and reconstruct what actually happened inside systems using logs and digital traces.
