@@ -1,7 +1,11 @@
 name: Metrics
 on:
-  schedule: [{ cron: "0 6 * * *" }]
+  schedule:
+    - cron: "0 6 * * *"
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   github-metrics:
@@ -14,7 +18,13 @@ jobs:
           user: redzeptech
           template: classic
           base: header, activity, community, repositories, metadata
+          config_timezone: Europe/Istanbul
+
           plugin_languages: yes
           plugin_languages_limit: 8
+          plugin_languages_sections: most-used
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_indepth: yes
+
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
