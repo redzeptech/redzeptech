@@ -2,18 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=3500&pause=1200&color=2FE6FFFB&background=071A2C&center=true&vCenter=true&width=700&height=60&lines=Digital+Forensics+Analyst;DFIR+%26+Incident+Response+Researcher;Linux+%7C+Memory+Forensics;Open-Source+Investigator;Independent+researcher+focusing+on+digital+evidence+;Memory+forensics+and+incident+response)](https://git.io/typing-svg)
 
-
-<p align="center">
-  <img src="Adsız.png" />
-</p>
-
-<h1 align="center">Recep Şenel</h1>
-<h3 align="center">Digital Forensics • Incident Response • Log Analysis</h3>
-
-<p align="center">
-<b>Veriyi okurum, niyeti çözerim.</b>
-</p>
-
 ---
 
 ## 🔎 Start Here
