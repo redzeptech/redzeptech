@@ -2,6 +2,11 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=3500&pause=1200&color=2FE6FFFB&background=071A2C&center=true&vCenter=true&multiline=true&width=850&height=200&lines=Digital+Forensics+Analyst;DFIR+%26+Incident+Response+Researcher;Linux+%7C+Memory+Forensics;Open-Source+Investigator;Independent+researcher+focusing+on+digital+evidence+;Memory+forensics+and+incident+response)](https://git.io/typing-svg)
 
+<br>
+
+<p align="center">
+  <img src="./assets/metrics.svg" alt="GitHub Metrics"/>
+</p>
 <p align="center">
   <img src="./assets/metrics.svg" />
 </p>
