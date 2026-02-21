@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=70&height=60&lines=Ba%C4%9F%C4%B1ms%C4%B1z+Dijital+Delil+Analisti+DFIR+%26+Incident+Response+Researcher+Linux+%7C+Memory+Forensics+%7C+Threat+Hunting+Open+Source+%26+Case+Analysis)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3500&pause=1200&color=4978FF&center=true&vCenter=true&width=70&height=60&lines=Digital+Forensics+Analyst++;DFIR+%26+Incident+Response+Researcher++;Linux+%7C+Memory+Forensics+%7C+Threat+Hunt+ing;Open-Source+Investigator+)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="Adsız.png" />
