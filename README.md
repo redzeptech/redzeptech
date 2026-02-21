@@ -11,7 +11,7 @@
   <img src="https://streak-stats.demolab.com?user=redzeptech&theme=github-dark&hide_border=true" />
 </p>
 ---
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=redzeptech&show_icons=true&hide_title=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=redzeptech&layout=compact&theme=github_dark&hide_border=true)
 
 ## 🔎 Start Here
 
