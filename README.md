@@ -6,10 +6,6 @@
   <img src="https://komarev.com/ghpvc/?username=redzeptech&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=redzeptech&show_icons=true&hide_title=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=redzeptech&layout=compact&theme=github_dark&hide_border=true" height="165" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=redzeptech&theme=github-dark&hide_border=true" />
@@ -65,6 +61,9 @@ I share technical guidance and investigative perspective.
 This profile does **not** provide legal representation or official expert witness services.
 
 ---
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=redzeptech&theme=github-compact&hide_border=true" />
+</p>
 
 ## Contact
 
