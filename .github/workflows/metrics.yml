@@ -18,6 +18,21 @@ jobs:
           user: redzeptech
           template: terminal
           base: repositories
+          plugin_lines: yes
+
+plugin_followup: yes
+plugin_followup_sections: user
+
+plugin_traffic: yes
+
+plugin_topics: yes
+plugin_topics_limit: 12
+plugin_topics_sort: stars
+
+plugin_notable: yes
+plugin_notable_filter: stars
+
+plugin_stars: yes
           config_timezone: Europe/Istanbul
 
           plugin_languages: yes
